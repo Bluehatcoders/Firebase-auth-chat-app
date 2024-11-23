@@ -8,7 +8,7 @@
   ],
   "main": "src/index.js",
   "dependencies": {
-    "firebase": "8.0.1",
+    "firebase": "10.9.0",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-router-dom": "5.1.2",
